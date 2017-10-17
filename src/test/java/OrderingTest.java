@@ -32,7 +32,7 @@ public class OrderingTest {
     public void testOnResultOf() {
         List<User> users = Lists.newArrayList(
                 new User(1L, 12, "Lucy"),
-                new User(2L, 13, "Tomy"),
+                new User(2L, 14, "Tomy"),
                 new User(3L, 11, "Lily"),
                 new User(4L, 11, "Tony"),
                 new User(5L, null, "John")
